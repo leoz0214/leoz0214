@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @leoz0214 :)
+- 👋 Hi, I’m Leo 
 - 👀 I’m interested in Python and a bit of web development (HTML, CSS, JavaScript)
-- 🌱 I’m currently learning the above
-- 💞️ I’m looking to collaborate on [Nothing Quite Yet ;)]
+- 🌱 I’m currently learning the above, especially Python (very fun).
+- 💞️ I’m looking to collaborate on [Nothing quite yet! Likely in the near future!]
 - 📫 How to reach me: Email - leozhang0214@gmail.com
 
 <!---
